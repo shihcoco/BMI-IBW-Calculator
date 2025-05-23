@@ -1,0 +1,231 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "alert.action.ok" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "知道了"
+          }
+        }
+      }
+    },
+    "alert.content.BMI" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BMI"
+          }
+        }
+      }
+    },
+    "alert.content.idealWeight" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "理想體重"
+          }
+        }
+      }
+    },
+    "alert.title.calculateResult" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計算結果"
+          }
+        }
+      }
+    },
+    "alert.title.heightAndWeightFieldsCannotBeEmpty" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身高及體重欄位不得為空"
+          }
+        }
+      }
+    },
+    "alert.title.heightFieldCannotBeEmpty" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身高欄位不得為空"
+          }
+        }
+      }
+    },
+    "alert.title.invalidHeightAndWeightFormat" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身高及體重格式錯誤"
+          }
+        }
+      }
+    },
+    "alert.title.invalidHeightFormat" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身高格式錯誤"
+          }
+        }
+      }
+    },
+    "alert.title.InvalidWeightFormat" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "體重格式錯誤"
+          }
+        }
+      }
+    },
+    "alert.title.selectAge" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請選擇年齡"
+          }
+        }
+      }
+    },
+    "alert.title.selectGender" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請選擇性別"
+          }
+        }
+      }
+    },
+    "alert.title.selectGenderAndAge" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請選擇性別及年齡"
+          }
+        }
+      }
+    },
+    "alert.title.weightFieldCannotBeEmpty" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "體重欄位不得為空"
+          }
+        }
+      }
+    },
+    "button.BMI" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計算BMI"
+          }
+        }
+      }
+    },
+    "button.IBW" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計算IBW"
+          }
+        }
+      }
+    },
+    "button.startCalculate" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開始計算"
+          }
+        }
+      }
+    },
+    "label.age" : {
+      "comment" : "User age",
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年齡"
+          }
+        }
+      }
+    },
+    "label.gender" : {
+      "comment" : "User gender",
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性別"
+          }
+        }
+      }
+    },
+    "label.height" : {
+      "comment" : "User height",
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身高"
+          }
+        }
+      }
+    },
+    "label.weight" : {
+      "comment" : "User weight",
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "體重"
+          }
+        }
+      }
+    },
+    "placeholder.enterHeight" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入身高"
+          }
+        }
+      }
+    },
+    "placeholder.enterWeight" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入體重"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
